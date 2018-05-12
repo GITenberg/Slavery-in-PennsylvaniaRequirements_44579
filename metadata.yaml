@@ -1,0 +1,31 @@
+_repo: Slavery-in-PennsylvaniaRequirements_44579
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44579-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Turner, Edward Raymond
+    alias: Turner, Raymond
+    birthdate: 1881
+    deathdate: 1929
+    gutenberg_agent_id: '42824'
+    url: http://www.gutenberg.org/2009/agents/42824
+description: ''
+gutenberg_issued: '2014-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44579'
+  lccn: a12000236
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'African Americans -- Pennsylvania'
+- !lcsh 'Slavery -- Pennsylvania'
+title: "Slavery in Pennsylvania\r\nA Dissertation Submitted to the Board of University\
+  \ Studies of the Johns Hopkins University in Conformity with the Requirements for\
+  \ the Degree of Doctor of Philosophy, 1910"
+url: http://www.gutenberg.org/ebooks/44579
